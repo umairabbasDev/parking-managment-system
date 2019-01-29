@@ -9,3 +9,8 @@ cslcolator of different Vehicles accorrding to their cost
 you can use code as you like 
 
 you can edit if you would like to make it better or if you fount any bug or error
+
+
+target:
+
+it can show hours and min.
